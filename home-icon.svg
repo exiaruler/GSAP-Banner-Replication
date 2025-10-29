@@ -1,0 +1,17 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 254.96 254.96">
+  <defs>
+    <style>
+      .cls-5{fill:none;stroke:#323232;stroke-linecap:round;stroke-linejoin:round;stroke-width:7.08px}
+    </style>
+  </defs>
+  <g id="Artwork">
+    <circle cx="127.48" cy="127.48" r="127.48" fill="#fff" stroke-width="0"/>
+    <g id="home">
+      <path id="Bounds" fill="transparent" stroke-width="0" d="M42.47 39.47H212.5V209.5H42.47z"/>
+      <path id="Shape" stroke-width="0" fill="#8de2e0" fill-rule="evenodd" d="M160.49 64.25h20.13v32.7L159.36 80.6l1.13-16.35z"/>
+      <path class="cls-5" d="m56.64 113.85 70.84-56.67 70.85 56.67"/>
+      <rect x="113.31" y="135.11" width="28.34" height="42.51" rx="5.31" ry="5.31" fill="#e40000" stroke-width="0"/>
+      <path class="cls-5" d="M74.35 99.69v92.09h106.26V64.25h-21.25v17.56"/>
+    </g>
+  </g>
+</svg>

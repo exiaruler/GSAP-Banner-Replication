@@ -1,0 +1,8 @@
+<svg class="intro-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113 111">
+  <linearGradient id="intro-circle-gradient" x1="22.559" x2="113.782" y1="21.559" y2="112.782"
+    gradientUnits="userSpaceOnUse">
+    <stop offset="0.105" stop-color="#8DE2E0"></stop>
+    <stop offset="1" stop-color="#8DE2E0" stop-opacity="0"></stop>
+  </linearGradient>
+  <circle cx="56.5" cy="55.5" r="48" fill="url(#intro-circle-gradient)"></circle>
+</svg>
